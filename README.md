@@ -10,5 +10,7 @@ En este curso vemos de todo :
 - El verdadero amor por las buenas practicas
 - Trucos muy locos del profesor
 - Las personalidades multiples de Freddy
+- Creado por el increible platzi team.
+
 
 Este es mi primer archivo ReadMe.md que he creado con el editor de pandao.github.io, haciendo el curso de Git y Git Hub de platzi.:smile:
